@@ -1,5 +1,5 @@
 # Natural-Language-Processing-ML
-Some projects which use NLP in classification. NLTK and Sklearn used in python
+Some projects which use NLP in classification. NLTK and Sklearn used in python. 1) Movie Review Project
 1) Movie Reviews classification:
    In this project, 2000 movie reviews are processed using NLP from NLTK.
    -> Firstly, the reviews are converted to suitable formats and the stopwords(including punctuations) are removed
